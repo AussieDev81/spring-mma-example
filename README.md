@@ -1,7 +1,7 @@
 # spring-multi-module-application
 Multi-module project template
 
-This is a template **DO NOT DELETE**
+## **DO NOT DELETE**
 
 Directory Structure
 ```text
