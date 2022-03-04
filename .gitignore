@@ -1,0 +1,5 @@
+# Project exclude paths
+/configuration/target/
+/repository/target/
+/root/target/
+/service/target/
