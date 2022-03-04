@@ -1,3 +1,2 @@
-# Multi-Module Spring Application
-
-This is a template **DO NOT DELETE!**
+# spring-multi-module-application
+Multi-moldule project template
