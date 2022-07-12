@@ -3,23 +3,39 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
-	<modules>
-        <module>root</module>
-		<module>repository</module>
-        <module>configuration</module>
-		<module>service</module>
-	</modules>
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.example</groupId>
 	<artifactId>multi-module-spring-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>Spring Multi-Module App</name>
-	<description>Demo project for Spring Boot multi module application</description>
+	<description>Demo project for Spring Boot multi-module application</description>
+
+	<modules>
+		<module>web</module> <!-- Root module -->
+		<module>repository</module>
+		<module>entity</module>
+		<module>service</module>
+	</modules>
+
+	<developers>
+		<developer>
+			<id>13923094</id>
+			<name>Harry Hacker</name>
+			<email>harry.hacker@gmail.com</email>
+		</developer>
+		<developer>
+			<id>12925091</id>
+			<name>Tommy Tester</name>
+			<email>tommy.tester@testnet.com</email>
+		</developer>
+	</developers>
 
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
@@ -27,6 +43,10 @@
 	</properties>
 
 	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -46,7 +66,10 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+		</dependency>
 	</dependencies>
-
 
 </project>

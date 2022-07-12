@@ -11,17 +11,34 @@
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>repository</artifactId>
-    <name>Repository</name>
+    <artifactId>web</artifactId>
+    <name>Web</name>
     <version>0.0.1</version>
 
     <dependencies>
         <dependency>
             <groupId>com.example</groupId>
+            <artifactId>repository</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.example</groupId>
             <artifactId>entity</artifactId>
             <version>0.0.1</version>
-            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>service</artifactId>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
 </project>

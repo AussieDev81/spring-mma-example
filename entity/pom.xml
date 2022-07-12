@@ -11,17 +11,9 @@
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>repository</artifactId>
-    <name>Repository</name>
+    <artifactId>entity</artifactId>
+    <name>Entity</name>
     <version>0.0.1</version>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.example</groupId>
-            <artifactId>entity</artifactId>
-            <version>0.0.1</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
 
 </project>

@@ -4,7 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf05ee29-4298-41aa-99d6-d13ef918d0c2" name="Changes" comment="Change user" />
+    <list default="true" id="bf05ee29-4298-41aa-99d6-d13ef918d0c2" name="Changes" comment="Change user">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/Spring multi-module example.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Discipline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Educator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Partner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Placement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Publishable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/ServiceRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Stakeholder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/Vacancy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/example/repo/DisciplineRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/example/repo/ServiceRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/example/repo/StakeholderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/com/example/repo/VacancyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/example/service/PackageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/example/service/StakeholderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/example/service/VacancyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/test/java/service/StakeholderServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/example/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration/src/main/java/com/example/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/entity/src/main/java/com/example/entity/EntityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration/src/main/resources/application-configuration.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/java/com/example/repo/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/resources/application-repository.yml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/main/java/com/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/main/java/com/example/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/example/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/com/example/service/ExampleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/resources/application-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +73,35 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nathan Snow &lt;nathan.snow@cqumail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -44,43 +118,89 @@
     </option>
   </component>
   <component name="ProjectId" id="25rbPWuCYTRoHsmw9LjFPGhlAWs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.20190024" />
-    <property name="project.structure.side.proportion" value="0.17279412" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/Repositories/spring-mma-example/web/src/main/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33563218",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.talent_acquisition_service.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Repositories\spring-mma-example\web\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Repositories\spring-multi-module-application" />
       <recent name="D:\Repositories\spring-multi-module-application\configuration\src\main\java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.service" />
+      <recent name="com.example.talent_acquisition_service" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.App" />
-      <module name="root" />
-      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
-        <option name="credential" />
-        <option name="region" />
-        <option name="useCurrentConnection" value="false" />
+  <component name="RunManager" selected="Application.Spring multi-module example">
+    <configuration name="StakeholderServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.StakeholderServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="web" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Spring multi-module example" />
+      <item itemvalue="JUnit.StakeholderServiceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StakeholderServiceTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -126,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646361850557</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Change user">
+      <created>1646387564744</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646387564744</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +268,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="readme edit" />
     <MESSAGE value="Directory structure" />

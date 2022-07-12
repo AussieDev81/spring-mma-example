@@ -1,0 +1,10 @@
+### Common ###
+module:
+  name: WEB
+
+spring:
+  application:
+    name: <APPLICATION_NAME>
+
+  profiles:
+    active: dev

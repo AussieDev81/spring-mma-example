@@ -1,9 +1,0 @@
-spring:
-  profiles:
-    include:
-      - configuration
-      - repository
-      - service
-
-module:
-  name: root
